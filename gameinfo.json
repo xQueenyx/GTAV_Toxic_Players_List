@@ -1,0 +1,79 @@
+{
+	"blacklist": [
+		{
+			"rid": 260971630,
+			"name": "rc10301",
+			"reason": "crasher"
+		},
+		{
+			"rid": 257746909,
+			"name": "rc10302",
+			"reason": "crasher"
+		},
+		{
+			"rid": 261059058,
+			"name": "rc10303",
+			"reason": "crasher"
+		},
+		{
+			"rid": 185953207,
+			"name": "rc10304",
+			"reason": "crasher"
+		},
+		{
+			"rid": 258780164,
+			"name": "rc10305",
+			"reason": "crasher"
+		},
+		{
+			"rid": 258712311,
+			"name": "rc10306",
+			"reason": "crasher"
+		},
+		{
+			"rid": 258823170,
+			"name": "rc10307",
+			"reason": "crasher"
+		},
+		{
+			"rid": 259116389,
+			"name": "rc10308",
+			"reason": "crasher"
+		},
+		{
+			"rid": 260567352,
+			"name": "rc10309",
+			"reason": "crasher"
+		},
+		{
+			"rid": 221079909,
+			"name": "Danil19102023",
+			"reason": "crasher"
+		},
+		{
+			"rid": 234855325,
+			"name": "Danil19102024",
+			"reason": "crasher"
+		},
+		{
+			"rid": 262313698,
+			"name": "MelanchoIia",
+			"reason": "crasher"
+		},
+		{
+			"rid": 262904229,
+			"name": "xCandyShop",
+			"reason": "crasher"
+		},
+		{
+			"rid": 265977759,
+			"name": "xKillaMode",
+			"reason": "crasher"
+		},
+		{
+			"rid": 268498111,
+			"name": "KissMeAround",
+			"reason": "crasher"
+		}
+	]
+}

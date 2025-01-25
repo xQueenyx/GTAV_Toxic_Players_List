@@ -1,4 +1,4 @@
-# GTAV_Toxic_Modder_List
+# GTAV_Toxic_Players_List
 
 ## Purpose
 

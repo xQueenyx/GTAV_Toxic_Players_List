@@ -139,6 +139,31 @@
 			"rid": 265564901,
 			"name": "Bypxss",
 			"reason": "mod griefer"
+		},
+		{
+			"rid": 262697618,
+			"name": "-Kitty-_",
+			"reason": "mass kick / freemode script crash events [Kitty Alt]"
+		},
+		{
+			"rid": 251679985,
+			"name": "x-Miss_Kitty--x",
+			"reason": "mass kick / freemode script crash events [Kitty Alt]"
+		},
+		{
+			"rid": 243915663,
+			"name": "_StrayEmma_",
+			"reason": "mass kick / freemode script crash events [Kitty Alt]"
+		},
+		{
+			"rid": 228041992,
+			"name": "I-BadKitty-I",
+			"reason": "mass kick / freemode script crash events [Kitty Alt]"
+		},
+		{
+			"rid": 159705632,
+			"name": "LittleKitty3613",
+			"reason": "mass kick / freemode script crash events [Kitty Alt]"
 		}
 	]
 }

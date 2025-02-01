@@ -164,6 +164,11 @@
 			"rid": 159705632,
 			"name": "LittleKitty3613",
 			"reason": "mass kick / freemode script crash events [Kitty Alt]"
+		},
+		{
+			"rid": 206962422,
+			"name": "SetThreadContext",
+			"reason": "stalker"
 		}
 	]
 }

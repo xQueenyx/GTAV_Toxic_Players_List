@@ -169,6 +169,16 @@
 			"rid": 206962422,
 			"name": "SetThreadContext",
 			"reason": "stalker"
+		},
+		{
+			"rid": 214010795,
+			"name": "_EvilGirl_",
+			"reason": "mass kick / freemode script crash events [Kitty Alt]"
+		},
+		{
+			"rid": 116257244,
+			"name": "_JOPSI_",
+			"reason": "crasher"
 		}
 	]
 }

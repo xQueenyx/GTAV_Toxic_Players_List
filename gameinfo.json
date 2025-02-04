@@ -204,6 +204,11 @@
 			"rid": 260401278,
 			"name": "_zendalma_",
 			"reason": "lobby loop exploding"
+		},
+		{
+			"rid": 269567596,
+			"name": "Stranoo",
+			"reason": "god mode griefing"
 		}
 	]
 }

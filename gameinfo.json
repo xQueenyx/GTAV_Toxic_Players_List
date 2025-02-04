@@ -199,6 +199,11 @@
 			"rid": 261657139,
 			"name": "whygone",
 			"reason": "crasher"
+		},
+		{
+			"rid": 260401278,
+			"name": "_zendalma_",
+			"reason": "lobby loop exploding"
 		}
 	]
 }
